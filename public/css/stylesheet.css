@@ -14,10 +14,11 @@
 body {
     
     
-	color:#667073;
-	background-image: url('images/bg1.png');
+	color:#9e9e9e;
+	background-image: url('images/bg1.png'); 
+	background-repeat:no-repeat;
+	background-attachment:fixed;
 	font: 16px/1.3 'Arial',sans-serif;
-	
 }​
 }
 
@@ -65,7 +66,7 @@ body {
 	height: 80px;
 	background-color: rgba(128,128,128,0.49);
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #1abc9c;
+	box-shadow:0px 3px 3px #1ab4bc;
 	margin-bottom: 200px;
 }
 
@@ -132,7 +133,7 @@ body {
 	display: block;
 	margin:0px auto;
 	border-radius: 3px;
-	box-shadow: 0px 3px 3px #e4e8e7;
+	box-shadow: 0px 3px 3px #1ab4bc;
 	text-decoration: none;
 	margin-bottom: 70px;
 	color: #eeffff;
@@ -174,7 +175,7 @@ body {
 	height: 400px;
 	background-color: rgba(228,228,228,0.24);
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #1abc9c;
+	box-shadow:0px 3px 3px #1ab4bc;
 	color: #f6f7f7;
 	
 }
@@ -207,11 +208,11 @@ body {
 	width: 150px;
 	height: 30px;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
+	box-shadow:0px 3px 3px #1ab4bc;
 	background-color: #f0f1f3;
 	border: 1px solid #d1d1d1;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
+	box-shadow:0px 3px 3px #1ab4bc;
 	margin-bottom:20px;
 	overflow: hidden;
 }
@@ -222,11 +223,11 @@ body {
 	width: 200px;
 	height: 30px;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
+	box-shadow:0px 3px 3px #1ab4bc;
 	background-color: #f0f1f3;
 	border: 1px solid #d1d1d1;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
+	box-shadow:0px 3px 3px #1ab4bc;
 	margin-bottom:40px;
 }
 
@@ -235,9 +236,9 @@ body {
 	width: 110px;
 	height: 40px;
 	text-align:center;
-	background-color: #1abc9c;
+	background-color: #1ab4bc;
 	border: none;
-	box-shadow: 1px 1px 1px #1abc9c;
+	box-shadow: 1px 1px 1px #1ab4bc;
 	border-radius: 2px;
 	color:white;
 	font-weight: bold;
@@ -256,7 +257,7 @@ body {
 	height: 400px;
 	background-color: rgba(228,228,228,0.29);
 	border-radius: 3px;
-	box-shadow:0px 1px 1px #1abc9c;
+	box-shadow:0px 1px 1px #1ab4bc;
 	color: #f6f7f7;
 }
 .personinside h2 {
@@ -285,11 +286,11 @@ body {
 	width: 150px;
 	height: 30px;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
+	box-shadow:0px 3px 3px #1ab4bc;
 	background-color: #f0f1f3;
 	border: 1px solid #d1d1d1;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
+	box-shadow:0px 3px 3px #1ab4bc;
 	margin-bottom:20px;
 }
 
@@ -299,11 +300,11 @@ body {
 	width: 200px;
 	height: 30px;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
+	box-shadow:0px 3px 3px #1ab4bc;
 	background-color: #f0f1f3;
 	border: 1px solid #d1d1d1;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
+	box-shadow:0px 3px 3px #1ab4bc;
 	margin-bottom:40px;
 }
 
@@ -312,9 +313,9 @@ body {
 	width: 110px;
 	height: 40px;
 	text-align:center;
-	background-color: #1abc9c;
+	background-color: #1ab4bc;
 	border: none;
-	box-shadow: 1px 1px 1px #1abc9c;
+	box-shadow: 1px 1px 1px #1ab4bc;
 	border-radius: 2px;
 	color:white;
 	font-weight: bold;
@@ -333,7 +334,7 @@ body {
 	height: 300px;
 	background-color: rgba(228,228,228,0.24);
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #1abc9c;
+	box-shadow:0px 3px 3px #1ab4bc;
 	color: #f6f7f7;
 }
 .invite-textfield h2 {
@@ -370,8 +371,8 @@ body {
 	height: 300px;
 	background-color: rgba(228,228,228,0.24);
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
-	color: #f6f7f7;
+	box-shadow:0px 3px 3px #1ab4bc;
+	color: #ffffff;
 	margin-bottom: 400px;
 }
 .left h2 {
@@ -406,7 +407,7 @@ body {
 	height: 300px;
 	background-color: rgba(228,228,228,0.24);
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #e3e4e6;
+	box-shadow:0px 3px 3px #1ab4bc;
 	color: #f6f7f7;
 }
 .toomanypeople h2 {
@@ -435,7 +436,7 @@ body {
 	height: 300px;
 	background-color: rgba(228,228,228,0.24);
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #1abc9c;
+	box-shadow:0px 3px 3px #1ab4bc;
 	color: #f9f9f9;
 	margin-bottom: 400px;
 }
@@ -538,7 +539,7 @@ body {
 	max-width: 510px;
 	background-color: rgba(228,228,228,0.59);
 	border-radius: 3px;
-	box-shadow: 0px 3px 3px #1abc9c;
+	box-shadow: 0px 3px 3px #1ab4bc;
 	color: #f6f7f7;
 	line-height: 1.4;
 	word-wrap: break-word;
@@ -602,7 +603,7 @@ footer {
 	float:left;
 	margin: 0 auto;
 	background-color: #f9f9f9;
-	border: 1px solid #1abc9c;
+	border: 1px solid #1ab4bc;
 	border-radius: 2px;
 	padding-left: 20px;
 	padding-top: 20px;
@@ -616,7 +617,7 @@ footer {
 	height: 60px;
 	float:right;
 	text-align:center;
-	background-color: #1abc9c;
+	background-color: #1ab4bc;
 	display: block;
 	margin: 0 auto;
 	border: none;
