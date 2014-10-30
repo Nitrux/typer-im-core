@@ -16,9 +16,12 @@
 
 body {
     
-    
+    background-color: #e2e6eb;
 	color:#9e9e9e;
-	background-image: url('images/bg2.png'); 
+	 -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 	background-repeat:no-repeat;
 	background-attachment:fixed;
 	font: 16px/1.3 'Roboto',Lato;
@@ -37,7 +40,7 @@ body {
 
 .homebanner {
 	height: 80px;
-	background-color: rgba(128,128,128,0.75);
+	background-color: #1ab4bc;
 	
 }
 
@@ -104,7 +107,7 @@ body {
 .homesection {
 	text-align:center;
 	margin-top:140px;
-	background-color: rgba(128,128,128,0.24);
+	background-color: #1abc9c;
 }
 
 .node {
@@ -127,12 +130,11 @@ body {
 #create {
 	width: 300px;
 	height: 100px;
-	background-color: rgba(228,228,228,0.24); 
+	background-color: #1abc9c; 
 	text-align:center;
 	display: block;
 	margin:0px auto;
 	border-radius: 3px;
-	box-shadow: 0px 3px 3px #1ab4bc;
 	text-decoration: none;
 	margin-bottom: 70px;
 	color: #eeffff;
@@ -172,9 +174,8 @@ body {
 	margin:0px auto;
 	width: 700px;
 	height: 400px;
-	background-color: rgba(228,228,228,0.24);
+	background-color: #1abc9c;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #1ab4bc;
 	color: #f6f7f7;
 	
 }
@@ -207,11 +208,10 @@ body {
 	width: 150px;
 	height: 30px;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #1ab4bc;
+	box-shadow:0px 3px 3px #1abc9c;
 	background-color: #f0f1f3;
 	border: 1px solid #d1d1d1;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #1ab4bc;
 	margin-bottom:20px;
 	overflow: hidden;
 }
@@ -222,20 +222,18 @@ body {
 	width: 200px;
 	height: 30px;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #1ab4bc;
 	background-color: #f0f1f3;
 	border: 1px solid #d1d1d1;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #1ab4bc;
 	margin-bottom:40px;
 }
 
 #yourEnter {
 	float:left;
-	width: 110px;
-	height: 40px;
+	width: 150px;
+	height: 50px;
 	text-align:center;
-	background-color: #1ab4bc;
+	background-color: #16a085;
 	border: none;
 	box-shadow: 1px 1px 1px #1ab4bc;
 	border-radius: 2px;
@@ -254,9 +252,8 @@ body {
 	margin:0px auto;
 	width: 700px;
 	height: 400px;
-	background-color: rgba(228,228,228,0.29);
+	background-color: #1abc9c;
 	border-radius: 3px;
-	box-shadow:0px 1px 1px #1ab4bc;
 	color: #f6f7f7;
 }
 .personinside h2 {
@@ -285,11 +282,9 @@ body {
 	width: 150px;
 	height: 30px;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #1ab4bc;
 	background-color: #f0f1f3;
 	border: 1px solid #d1d1d1;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #1ab4bc;
 	margin-bottom:20px;
 }
 
@@ -299,22 +294,20 @@ body {
 	width: 200px;
 	height: 30px;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #1ab4bc;
 	background-color: #f0f1f3;
 	border: 1px solid #d1d1d1;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #1ab4bc;
 	margin-bottom:40px;
 }
 
 #hisEnter {
 	float:left;
-	width: 110px;
-	height: 40px;
+	width: 150px;
+	height: 50px;
 	text-align:center;
-	background-color: #1ab4bc;
+	background-color: #16a085;
 	border: none;
-	box-shadow: 1px 1px 1px #1ab4bc;
+	box-shadow: 1px 1px 1px #1abc9c;
 	border-radius: 2px;
 	color:white;
 	font-weight: bold;
@@ -331,9 +324,8 @@ body {
 	margin:0px auto;
 	width: 750px;
 	height: 300px;
-	background-color: rgba(228,228,228,0.24);
+	background-color: #1abc9c;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #1ab4bc;
 	color: #f6f7f7;
 }
 .invite-textfield h2 {
@@ -368,9 +360,8 @@ body {
 	margin:0px auto;
 	width: 750px;
 	height: 300px;
-	background-color: rgba(228,228,228,0.24);
+	background-color: #1abc9c;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #1ab4bc;
 	color: #ffffff;
 	margin-bottom: 400px;
 }
@@ -404,9 +395,8 @@ body {
 	margin:0px auto;
 	width: 750px;
 	height: 300px;
-	background-color: rgba(228,228,228,0.24);
+	background-color: #1abc9c;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #1ab4bc;
 	color: #f6f7f7;
 }
 .toomanypeople h2 {
@@ -433,9 +423,8 @@ body {
 	margin:0px auto;
 	width: 750px;
 	height: 300px;
-	background-color: rgba(228,228,228,0.24);
+	background-color: #1abc9c;
 	border-radius: 3px;
-	box-shadow:0px 3px 3px #1ab4bc;
 	color: #f9f9f9;
 	margin-bottom: 400px;
 }
@@ -501,7 +490,7 @@ body {
 	width: 40%;
 	display: block;
 	margin:0px auto 650px;
-	background-color: rgba(228,228,228,0.24);
+	background-color: #1abc9c;
 	color: #f6f7f7;
 }
 
@@ -536,9 +525,8 @@ body {
 	min-width: 160px;
 	min-height: 10px;
 	max-width: 510px;
-	background-color: rgba(228,228,228,0.59);
+	background-color: #1abc9c;
 	border-radius: 3px;
-	box-shadow: 0px 3px 3px #1ab4bc;
 	color: #f6f7f7;
 	line-height: 1.4;
 	word-wrap: break-word;
@@ -554,9 +542,8 @@ body {
 	min-width: 160px;
 	min-height: 10px;
 	max-width: 510px;
-	background-color: rgba(228,228,228,0.59);
+	background-color: #95a5a6;
 	border-radius: 3px;
-	box-shadow: 0px 1px 1px #e00052;
 	color: #f6f7f7;
 	line-height: 1.4;
 	word-wrap: break-word;
@@ -586,7 +573,6 @@ footer {
 	left:0;
 	width:100%;
 	padding-top: 30px;
-	background-color: rgba(128,128,128,0.49);
 	height: 130px;
 }
 #chatform {
@@ -601,8 +587,7 @@ footer {
 	display: block;
 	float:left;
 	margin: 0 auto;
-	background-color: #f9f9f9;
-	border: 1px solid #1ab4bc;
+	border: 1px solid #1abc9c;
 	border-radius: 2px;
 	padding-left: 20px;
 	padding-top: 20px;
@@ -616,7 +601,7 @@ footer {
 	height: 60px;
 	float:right;
 	text-align:center;
-	background-color: #1ab4bc;
+	background-color: #1abc9c;
 	display: block;
 	margin: 0 auto;
 	border: none;
