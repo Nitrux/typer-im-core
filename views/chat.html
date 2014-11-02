@@ -11,6 +11,23 @@
 <head>
 
 	<title>App | Typer</title>
+	<script language="JavaScript"> 
+<!-- 
+function fb()
+{
+var keywordsStr = 'https://www.facebook.com/sharer/sharer.php?u=' + document.getElementById('link').value
+var url = 'https://www.facebook.com/sharer/sharer.php?u=' + document.getElementById('link').value
+window.location.href = url; 
+}
+
+function mail()
+{
+var keywordsStr = 'mailto:?subject=Join me on Typer&body=' + document.getElementById('link') 
+var url = 'mailto:?subject=Join me on Typer&body=' + document.getElementById('link')
+window.location.href = url; 
+}
+//--> 
+</script> 
 
 	<link type="text/css" rel="stylesheet" href="../css/stylesheet.css" />
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans Condensed:300italic,300,700" rel="stylesheet" type="text/css">
@@ -54,15 +71,16 @@
 			<img src="../img/unnamed.jpg" id="creatorImage" />
 
 			<div class="infoConnected">
+			
 				<h2>Who are you?</h2>
-				<br/>
-
+<br/>
 				<form class="loginForm">
 					<input type="text" id="yourName" placeholder="Your nick name" /><br/>
 					<input type="text" id="yourEmail" placeholder="Your email address" /><br/>
 					<input type="submit" id="yourEnter" value="ENTER" />
-					
 				</form>
+				<br><br><br><br><br><br><br><br>
+				<a href="../css/join.html">I want join a session.</a>
  
 			</div>
 
@@ -90,8 +108,12 @@
 			<h5>Alright sparky! Invite your <span>friend</span> to join you by sending them the URL of the page provided below. <br> Be sure to share it only with whom you want to Typer.</h5>
 			<div class="link">
 				<a title="Invite a friend" href="" id="link"></a>
+				<br><br><br>
+				<input type="submit" id="mojoshare" onClick="mail();" target="_blank" value="Mail this to a friend"/>
 			</div>
-
+<div class="texthoho" style="visibility: hidden">
+<input class="textbox" type="text" id="link" placeholder="Enter a room name" />
+</div>
 		</div>
 
 		<div class="left">

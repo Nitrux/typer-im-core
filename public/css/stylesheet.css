@@ -40,6 +40,7 @@ body {
 
 .homebanner {
 	height: 80px;
+	text-align: center;
 	background-color: #1ab4bc;
 	
 }
@@ -173,7 +174,7 @@ body {
 	display: block;
 	margin:0px auto;
 	width: 700px;
-	height: 400px;
+	height: 420px;
 	background-color: #1abc9c;
 	border-radius: 3px;
 	color: #f6f7f7;
@@ -231,6 +232,34 @@ body {
 #yourEnter {
 	float:left;
 	width: 150px;
+	height: 50px;
+	text-align:center;
+	background-color: #16a085;
+	border: none;
+	box-shadow: 1px 1px 1px #1ab4bc;
+	border-radius: 2px;
+	color:white;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+#mojojoin {
+	float:center;
+	width: 150px;
+	height: 50px;
+	text-align:center;
+	background-color: #16a085;
+	border: none;
+	box-shadow: 1px 1px 1px #1ab4bc;
+	border-radius: 2px;
+	color:white;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+#mojoshare {
+	float:center;
+	width: 180px;
 	height: 50px;
 	text-align:center;
 	background-color: #16a085;
@@ -323,11 +352,42 @@ body {
 	display: block;
 	margin:0px auto;
 	width: 750px;
-	height: 300px;
+	height: 340px;
 	background-color: #1abc9c;
 	border-radius: 3px;
 	color: #f6f7f7;
 }
+
+.urlbox {
+	text-align:center;
+	margin:4px auto;
+	width: 750px;
+	height: 350px;
+	background-color: #1abc9c;
+	border-radius: 3px;
+	color: #f6f7f7;
+}
+
+a:link {
+    text-decoration: none;
+    color: #ecf0f1;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #ecf0f1;
+}
+
+a:hover {
+text-decoration: dotted 1px;
+    color: #e74c3c;
+}
+
+a:active {
+    text-decoration: dotted 1px;
+    color: #16a085;
+}
+
 .invite-textfield h2 {
 	padding-top: 80px;
 }
