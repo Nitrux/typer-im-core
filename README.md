@@ -39,9 +39,7 @@ Licensing
 
 License provided by Tutorialzine for the original code:
 
->"The source code and techniques, covered in our articles, are free to use in your personal and commercial projects. The articles themselves are copyrighted."
-
->Therefore you are free to modify, improve and redistribute our code commercially or non-commercially.
+>The source code and techniques, covered in our articles, are free to use in your personal and commercial projects. The articles themselves are copyrighted. >Therefore you are free to modify, improve and redistribute our code commercially or non-commercially.
 
 Noted in the link above, the original code is accesible under a free-copyleft license. 
 
