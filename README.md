@@ -1,7 +1,7 @@
 Typer.IM - Core
 ==============
 
-This repository holds the sources for the Typer.IM (Classic) code.
+This repository holds the sources for the Typer.IM (Classic) node.js application code.
 
 ![Site preview](http://i.imgur.com/Nuv7k7g.png "Typer.IM Classic")
 
