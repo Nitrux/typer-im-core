@@ -1,1 +1,4 @@
 node modules
+.DS_store
+.directory
+.bak
