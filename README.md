@@ -32,7 +32,7 @@ How to run it?
 How was this built?
 ===================
 
-This code is based on the tutorial of Nick Anastasov [http://tutorialzine.com/2014/03/nodejs-private-webchat/].
+This code is based on the [tutorial of Nick Anastasov at tutorialzine.com](http://tutorialzine.com/2014/03/nodejs-private-webchat/).
 
 Licensing
 =========
