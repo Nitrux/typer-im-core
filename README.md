@@ -1,4 +1,4 @@
-Typer.IM - Core
+Typer.IM (Classic) - Core
 ==============
 
 This repository holds the sources for the Typer.IM (Classic) node.js application code.
