@@ -8,7 +8,7 @@ This repository holds the sources for the Typer.IM (Classic) node.js application
 Introduction
 ============
 
-[Typer.IM ®](http://typer.im/) is a secure, cross-platform messaging and real-time communication service with a focus on privacy. For avatars, it uses [Gravatar](http://gravatar.com/).You can run the chat locally with node.js (first install node.js from your distribution repositories).
+[Typer.IM ®](http://typer.im/) is a secure, cross-platform messaging and real-time communication service with a focus on privacy. For avatars, it uses [Gravatar](http://gravatar.com/). You can run the chat locally with node.js (first install node.js from your distribution repositories).
 
 How to run it?
 ==============
