@@ -3,8 +3,11 @@ Typer.IM is a realtime chat system with Node.js and the socket.io library. The c
 
 # How to run it?
 First clone the project from the github repo. Be sure to have nodejs installed on your system already.
+
 `cd typerapp`
+
 `npm install`
+
 `node app.js`
 
 # How was this built?
