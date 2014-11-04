@@ -41,7 +41,7 @@ An extract of the [license provided by Tutorialzine.com](http://tutorialzine.com
 
 >The source code and techniques, covered in our tutorials, are free for use in your personal and commercial projects.[...] You can use, modify and build upon our code for your (or your clients’) personal and commercial projects with no attribution necessary.
 
-Noted in the link above, the original code is accesible under a free-copyleft license. 
+Noted in the link above, the original code is accesible under a free-copyleft license.
 
 Our changes in comparsion to the orginal code are available through the New BSD license. See LICENSE for more information.
 
