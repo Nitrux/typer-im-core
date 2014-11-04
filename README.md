@@ -37,7 +37,7 @@ This code is based on the [tutorial of Nick Anastasov at tutorialzine.com](http:
 Licensing
 =========
 
-An extract of the [license provided by Tutorialzine.com](http://tutorialzine.com/license/) for the original code:
+An extract of the [license provided by tutorialzine.com](http://tutorialzine.com/license/) for the original code:
 
 >The source code and techniques, covered in our tutorials, are free for use in your personal and commercial projects.[...] You can use, modify and build upon our code for your (or your clients’) personal and commercial projects with no attribution necessary.
 
