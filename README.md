@@ -41,9 +41,9 @@ An extract of the [license provided by tutorialzine.com](http://tutorialzine.com
 
 >The source code and techniques, covered in our tutorials, are free for use in your personal and commercial projects.[...] You can use, modify and build upon our code for your (or your clients’) personal and commercial projects with no attribution necessary.
 
-Noted in the link above, the original code is accesible under a free-copyleft license.
+Noted in the link above, the original code is accesible under a free-copyleft license as such the core of Typer.IM is handed out as [OSS](http://en.wikipedia.org/wiki/Open-source_software) code.
 
-Our changes in comparsion to the orginal code are available through the New BSD license. See LICENSE for more information.
+Our changes to the orginal code available here are licensed under the New BSD license. See LICENSE for more information.
 
 Trademarks
 ===========
