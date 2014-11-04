@@ -29,7 +29,7 @@ How to run it?
 +  
 `node app.js`
 
-How was this built?
+Source
 ===================
 
 This code is based on the [tutorial of Nick Anastasov at tutorialzine.com](http://tutorialzine.com/2014/03/nodejs-private-webchat/).
@@ -37,9 +37,9 @@ This code is based on the [tutorial of Nick Anastasov at tutorialzine.com](http:
 Licensing
 =========
 
-License provided by Tutorialzine for the original code:
+An extract of the [license provided by Tutorialzin](http://tutorialzine.com/license/) for the original code:
 
->The source code and techniques, covered in our articles, are free to use in your personal and commercial projects. The articles themselves are copyrighted. Therefore you are free to modify, improve and redistribute our code commercially or non-commercially.
+>The source code and techniques, covered in our tutorials, are free for use in your personal and commercial projects.[...] You can use, modify and build upon our code for your (or your clients’) personal and commercial projects with no attribution necessary.
 
 Noted in the link above, the original code is accesible under a free-copyleft license. 
 
