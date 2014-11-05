@@ -43,7 +43,7 @@ An extract of the [license provided by tutorialzine.com](http://tutorialzine.com
 
 Noted in the link above, the original code is accesible under a free-copyleft license as such the core of Typer.IM is handed out as [OSS](http://en.wikipedia.org/wiki/Open-source_software) code.
 
-Our changes to the orginal code available here are licensed under the New BSD license. See LICENSE for more information.
+Our changes to the original code available here are licensed under the New BSD license. See LICENSE for more information.
 
 Trademarks
 ===========
